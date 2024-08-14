@@ -2,6 +2,7 @@
 
 1. Git clone the project
 2. ```
+   cd websocket-redis
    npm i
    ```
 3. Build the project using tsc compiler
